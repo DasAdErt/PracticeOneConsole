@@ -1,0 +1,14 @@
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\bin\Debug\net7.0\PracticeOneConsole.exe
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\bin\Debug\net7.0\PracticeOneConsole.deps.json
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\bin\Debug\net7.0\PracticeOneConsole.runtimeconfig.json
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\bin\Debug\net7.0\PracticeOneConsole.dll
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\bin\Debug\net7.0\PracticeOneConsole.pdb
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\PracticeOneConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\PracticeOneConsole.AssemblyInfoInputs.cache
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\PracticeOneConsole.AssemblyInfo.cs
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\PracticeOneConsole.csproj.CoreCompileInputs.cache
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\PracticeOneConsole.dll
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\refint\PracticeOneConsole.dll
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\PracticeOneConsole.pdb
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\PracticeOneConsole.genruntimeconfig.cache
+C:\Users\tkachyov.mv\source\repos\PracticeOneConsole\PracticeOneConsole\obj\Debug\net7.0\ref\PracticeOneConsole.dll
